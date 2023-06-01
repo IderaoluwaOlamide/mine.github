@@ -1,0 +1,24 @@
+.blue{
+	border: blue;
+	box-shadow:10px 10px 5px gray;
+	height:500px auto;
+	background-color:blue;
+	border-radius:20px;
+	padding-top:30px;
+	color:lightblue;
+}
+.red{
+	background-color:red;
+	color:#000;
+	border-radius:5px;
+}
+.pink{
+	background-color:pink;
+	color:#000;
+	border-radius:5px;
+}
+.g{
+	background-color:green;
+	color:#000;
+	border-radius:5px;
+}
